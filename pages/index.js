@@ -5,4 +5,4 @@ export default function Home() {
       <p>AI Betting Tools | Live Odds | Stats</p>
     </div>
   );
-}
+} 
