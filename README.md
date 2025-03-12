@@ -7,3 +7,4 @@ This is the frontend for BetNoma AI Betting Tool built with Next.js.
 - `npm start`: Start production server
 
 Deployed via Vercel.
+ 
