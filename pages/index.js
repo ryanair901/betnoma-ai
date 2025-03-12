@@ -24,27 +24,4 @@ export default function Home() {
       </section>
     </div>
   );
-}
-{/* Features Section */}
-<section className="bg-white py-16 px-6">
-  <div className="max-w-6xl mx-auto text-center">
-    <h3 className="text-3xl font-semibold text-gray-800 mb-12">Why Choose BetNoma AI?</h3>
-
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
-      {/* Feature 1 */}
-      <div className="bg-gray-100 p-6 rounded-xl shadow hover:shadow-lg transition">
-        <h4 className="text-xl font-bold mb-2 text-blue-700">Live Odds Feed</h4>
-        <p className="text-gray-600">Get real-time odds from top bookmakers, all in one place.</p>
-      </div>
-
-      {/* Feature 2 */}
-      <div className="bg-gray-100 p-6 rounded-xl shadow hover:shadow-lg transition">
-        <h4 className="text-xl font-bold mb-2 text-blue-700">AI-Powered Predictions</h4>
-        <p className="text-gray-600">Access advanced predictions powered by machine learning models.</p>
-      </div>
-
-      {/* Feature 3 */}
-      <div className="bg-gray-100 p-6 rounded-xl shadow hover:shadow-lg transition">
-        <h4 className="text-xl font-bold mb-2 text-blue-700">Match Statistics</h4>
-        <p className="text-gray-600">View de
 
